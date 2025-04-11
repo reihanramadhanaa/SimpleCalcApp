@@ -15,6 +15,8 @@ class Program
         Console.WriteLine("Hasil Penjumlahan: " + kalkulator.Tambah(a, b));
         Console.WriteLine("Hasil Pengurangan: " + kalkulator.Kurang(a, b));
         Console.WriteLine("Hasil Perkalian: " + kalkulator.Kali(a, b));
+        Console.WriteLine("Hasil Pembagian: " + kalkulator.Bagi(a, b));
+
 
     }
 }
