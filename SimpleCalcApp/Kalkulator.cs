@@ -3,4 +3,7 @@
     public int Tambah(int a, int b) => a + b;
 
     public int Kurang(int a, int b) => a - b;
+
+    public int Kali(int a, int b) => a * b;
+
 }
